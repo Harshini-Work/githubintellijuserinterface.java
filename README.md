@@ -35,27 +35,27 @@ This project is a simple CRUD REST API built using Spring Boot to manage user da
 
  
 
-![ Get User by ID  ]( https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/   [Get_userbyid.png](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/Get_userbyid.png "Get_userbyid.png")  
+![Get_userbyid.png](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/Get_userbyid.png))  
 
   
 
 ### ✅ Get User by Name
 
-![ Get User by Name  ]( https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/   [Get_userbyname.png](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/Get_userbyname.png "Get_userbyname.png")  
+![ Get User by Name  ]( https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/Get_userbyname.png)  
 
 ### ✅ Delete User
 
-![ Delete User  ]( https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/   [Delete_userid.png](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/Delete_userid.png "Delete_userid.png")  
+! [Delete_userid.png](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/Delete_userid.png "Delete_userid.png")  
 
 ### ✅ Update User
 
-![ Update User  ]( https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/ [UpdatebyId.png](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/UpdatebyId.png "UpdatebyId.png")    
+! [UpdatebyId.png](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/UpdatebyId.png "UpdatebyId.png")    
 
-![Update Test]( https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/   [Updatetest_did.png](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/Updatetest_did.png "Updatetest_did.png")  
+! [Updatetest_did.png](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/Updatetest_did.png "Updatetest_did.png")  
 
  ✅ Post User
 
- ![Post User]( https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/    [Post_useradd.png](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/Post_useradd.png "Post_useradd.png")   
+ ![Post_useradd.png](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/Post_useradd.png "Post_useradd.png")   
 
   
 

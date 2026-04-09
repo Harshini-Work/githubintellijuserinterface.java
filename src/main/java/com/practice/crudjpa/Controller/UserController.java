@@ -13,7 +13,7 @@ public class UserController {
     @Autowired
     private UserService service;
     @PostMapping("/add")
-    public User saveUser(@RequestBody User user){
+    public List <User> saveUser(@RequestBody List <User> user){
         return service.saveUser(user);
     }
     @GetMapping("/{id}")
@@ -28,4 +28,14 @@ public class UserController {
     public List<User> getUserall(){
         return service.getUserall();
     }
+    @DeleteMapping("/{id}")
+    public String delete(@PathVariable int id){
+        return service.delete(id);
+    }
+    @PutMapping("/{id}")
+    public String updatebtid(@PathVariable int id ,@RequestBody User newuser){
+       User update=    service.updatebyid(id,newuser);
+           return (update!=null)?"Updated Sucessfully ":"usernot found";
+    }
+
 }

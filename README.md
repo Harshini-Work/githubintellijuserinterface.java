@@ -35,7 +35,7 @@ This project is a simple CRUD REST API built using Spring Boot to manage user da
 
  
 
-![Get_userbyid.png](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/Get_userbyid.png))  
+![Get_userbyid](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/Get_userbyid.png))  
 
   
 
@@ -45,17 +45,17 @@ This project is a simple CRUD REST API built using Spring Boot to manage user da
 
 ### ✅ Delete User
 
-! [Delete User](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/Delete_userid.png "Delete_userid.png")  
+! [DeleteUser](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/Delete_userid.png)  
 
 ### ✅ Update User
 
-! [Updatebyid](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/UpdatebyId.png "UpdatebyId.png")    
+! [Updatebyid](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/UpdatebyId.png )    
 
-! [Updatetest](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/Updatetest_did.png "Updatetest_did.png")  
+! [Updatetest](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/Updatetest_did.png )  
 
  ✅ Post User
 
- ![Postuseradd](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/Post_useradd.png "Post_useradd.png")   
+ ![Postuseradd](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/Post_useradd.png )   
 
   
 

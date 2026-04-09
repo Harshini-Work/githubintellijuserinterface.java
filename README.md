@@ -45,13 +45,13 @@ This project is a simple CRUD REST API built using Spring Boot to manage user da
 
 ### ✅ Delete User
 
-! [Delete User](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/Delete_userid.png "Delete_userid.png")  
+! [Delete_User](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/Delete_userid.png "Delete_userid.png")  
 
 ### ✅ Update User
 
-! [Updatebyid](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/UpdatebyId.png "UpdatebyId.png")    
+! [Update_byid](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/UpdatebyId.png "UpdatebyId.png")    
 
-! [Updatetest](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/Updatetest_did.png "Updatetest_did.png")  
+! [Update_test](https://github.com/Harshini-Work/githubintellijuserinterface.java/blob/master/Updatetest_did.png "Updatetest_did.png")  
 
  ✅ Post User
 

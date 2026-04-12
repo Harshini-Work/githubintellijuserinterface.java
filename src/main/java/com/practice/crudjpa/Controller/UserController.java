@@ -17,7 +17,7 @@ public class UserController {
         return service.saveUser(user);
     }
     @GetMapping("/{id}")
-    public User getUser(@PathVariable int id){
+    public User getUser(@PathVariable Long id){
         return service.getUser(id);
     }
     @GetMapping("/name/{name}")
@@ -29,13 +29,14 @@ public class UserController {
         return service.getUserall();
     }
     @DeleteMapping("/{id}")
-    public String delete(@PathVariable int id){
+    public String delete(@PathVariable Long id){
         return service.delete(id);
     }
     @PutMapping("/{id}")
-    public String updatebtid(@PathVariable int id ,@RequestBody User newuser){
+    public String updatebtid(@PathVariable Long id ,@RequestBody User newuser){
        User update=    service.updatebyid(id,newuser);
            return (update!=null)?"Updated Sucessfully ":"usernot found";
     }
+
 
 }

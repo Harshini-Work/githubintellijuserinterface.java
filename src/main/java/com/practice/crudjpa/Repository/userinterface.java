@@ -3,10 +3,13 @@ package com.practice.crudjpa.Repository;
 import com.practice.crudjpa.Entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-public interface userinterface extends JpaRepository<User,Integer>{
+import java.util.Optional;
 
 
-    User findByName(String name);
+public interface userinterface extends JpaRepository<User,Long> {
+
+
+   Optional< User >findByName(String name);
 
 
 }
